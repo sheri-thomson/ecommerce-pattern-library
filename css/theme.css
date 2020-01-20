@@ -1,0 +1,13 @@
+:root {
+  --color-primary :#254B59;
+  --color-bg: #F2F2E9;
+  --color-secondary: #332821;
+  --color-accent: #965C27;
+  --color-light-blue: #7B9EA6;
+
+  --font-primary: "Catamaran", sans-serif;
+}
+
+html {
+  font-family: var(--font-primary);
+}
