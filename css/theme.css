@@ -35,9 +35,9 @@ ul {
 
 /* products nav list formatting */
 
-ol {
+ul {
   font-family: var(--font-primary);
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
 }
 
@@ -60,7 +60,7 @@ dt {
 dd {
   font-family: var(--font-primary);
   color: var(--color-secondary);
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
 }
 
