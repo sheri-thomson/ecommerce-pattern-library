@@ -1,6 +1,6 @@
 :root {
   --color-primary :#254B59;
-  --color-bg: #F2F2E9;
+  --color-beige: #F2F2E9;
   --color-secondary: #332821;
   --color-accent: #965C27;
   --color-light-blue: #7B9EA6;
@@ -31,7 +31,7 @@ h5 {
 
 ul {
   font-family: var(--font-primary);
-  color: var(--color-bg: #F2F2E9);
+  color: var(--color-beige);
   font-weight: bold;
   font-style: normal;
 }
@@ -65,4 +65,17 @@ dd {
   color: var(--color-secondary);
   font-weight: bold;
   font-style: normal;
+}
+
+/* product card list formatting */
+
+a {
+  font-family: var(--font-primary);
+  color: var(--color-beige);
+  font-weight: bold;
+  font-style: normal;
+}
+
+strong {
+  font-family: var(--font-primary);
 }
