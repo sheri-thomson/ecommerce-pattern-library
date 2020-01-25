@@ -76,3 +76,17 @@ a {
 strong {
   font-family: var(--font-primary);
 }
+
+blockquote {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+  font-weight: normal;
+  font-style: normal;
+}
+
+cite {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+  font-weight: normal;
+  font-style: normal;
+}
