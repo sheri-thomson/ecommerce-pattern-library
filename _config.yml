@@ -10,3 +10,5 @@ patternbot:
     typefaces:
       typefaces.primary: |
         Catamaran typeface is a digital age sans-serif with a versatile family. Having only one typeface with many weights and strokes reduces load time and maintains the capacity to establish hierarchy. It's monolinear structure is legible while still embracing uniqueness seen more prevalent in the lowercase letters.
+      colors.primary: |
+        The primary color used is a rich teal. It embodies reflection and focus, however still maintains fluidity with the ebb and flow of energy; similar to the balance between blue and green that teal represents.
