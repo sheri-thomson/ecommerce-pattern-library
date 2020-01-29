@@ -1,6 +1,6 @@
 :root {
   --color-primary :#254B59;
-  --color-beige: #F2F2E9;
+  --color-neutral: #F2F2E9;
   --color-secondary: #332821;
   --color-accent: #965C27;
   --color-light-blue: #7B9EA6;
@@ -28,7 +28,7 @@ h4, h5 {
 
 ul {
   font-family: var(--font-primary);
-  color: var(--color-beige);
+  color: var(--color-neutral);
   font-weight: bold;
   font-style: normal;
 }
@@ -68,7 +68,7 @@ dd {
 
 a {
   font-family: var(--font-primary);
-  color: var(--color-beige);
+  color: var(--color-neutral);
   font-weight: bold;
   font-style: normal;
 }

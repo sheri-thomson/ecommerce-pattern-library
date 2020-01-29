@@ -10,4 +10,9 @@ patternbot:
     typefaces.primary: |
       Catamaran typeface is a digital age sans-serif with a versatile family. Having only one typeface with many weights and strokes reduces load time and maintains the capacity to establish hierarchy. It's monolinear structure is legible while still embracing uniqueness seen more prevalent in the lowercase letters.
     colors.primary: |
-        The primary color used is a rich teal. It embodies reflection and focus, however still maintains fluidity with the ebb and flow of energy; similar to the balance between blue and green that teal represents.
+      The primary color used is a rich teal. It embodies reflection and focus, however, still maintains fluidity with the ebb and flow of energy; similar to the balance between blue and green that teal represents.
+    colors.secondary: |
+      The deep dark brown used is complementary to the teal blue. It brings warmth and comfort to the design, created security. This earth tone conveys a sense of one being grounded and connected to security and strength.
+    colors.neutral: |
+      The light beige is used as a background color and in contrast within some of the typographic elements. Being much lighter than the primary and secondary colors, this neutral tone gives the design the harmonious tone needed to maintain stability in the color palette.
+    colors.accent: |
