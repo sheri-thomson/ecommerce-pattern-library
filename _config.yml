@@ -6,3 +6,7 @@ patternbot:
   description: |
     All natural, pure and organic essential oil for overall wellness.
   font_url: "https://fonts.googleapis.com/css?family=Catamaran:400,700&display=swap"
+  rationales:
+    typefaces:
+      typefaces.primary: |
+        Catamaran typeface is a digital age sans-serif with a versatile family. Having only one typeface with many weights and strokes reduces load time and maintains the capacity to establish hierarchy. It's monolinear structure is legible while still embracing uniqueness seen more prevalent in the lowercase letters.
