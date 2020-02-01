@@ -11,5 +11,5 @@
 
 .btn.ghost {
   background-color: transparent;
-  caret-color: var(--color-secondary);
+  border-color: var(--color-secondary);
 }
