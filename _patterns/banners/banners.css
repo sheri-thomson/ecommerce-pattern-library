@@ -1,3 +1,7 @@
 .banner-content-1 {
   color: var(--color-neutral);
 }
+
+.banner-content-home {
+  color: var(--color-primary);
+}
