@@ -3,12 +3,10 @@ description: |
   Cards should be used in situations where a smaller amounts of content display in a way that envoke interest to dig deeper into the subject. These cards lead to other sections or pages that provide more detialed information.
 
 patterns:
-  product-page-card:
-    title: "Product Page Cards"
+  product-page-cards:
     description: |
       Cards on the product page are displayed to show available products within each product category; essential oils, diffusers, bath and body, and accessories.
 
-  suggested-item-cards:
-    title: "Suggested Item Cards"
+  suggested-item-card:
     description: |
       Cards for suggested items are used on the product details page. These cards are suggested products that provide a glimpse into other products outside of the category.
