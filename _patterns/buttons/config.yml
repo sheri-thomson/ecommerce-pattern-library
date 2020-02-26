@@ -8,6 +8,11 @@ patterns:
     description: |
       Default to using the basic button. It should always be used in front of light backgrounds.
     width: "12em"
+    shop-btn:
+      title: "Shop"
+      description: |
+        Default to using the basic button. It should always be used in front of light backgrounds.
+      width: "12em"
   ghost:
     title: "Ghost"
     description: |
