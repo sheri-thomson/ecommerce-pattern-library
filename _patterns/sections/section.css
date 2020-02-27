@@ -1,9 +1,15 @@
-.hidden-content-2 {
+.hidden-content-1 {
   display: none;
 }
 
 @media screen and (min-width: 38em) {
-  .hidden-content-1 {
-    display: none;
+  .hidden-content-2 {
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
+}
+
+.content {
+  vertical-align: middle;
 }
