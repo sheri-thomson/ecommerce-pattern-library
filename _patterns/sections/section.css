@@ -1,4 +1,4 @@
-.hidden-content-1 {
+.hidden-content-2 {
   display: none;
 }
 
@@ -7,13 +7,13 @@
 }
 
 @media screen and (min-width: 38em) {
-  .hidden-content-2 {
+  .hidden-content-1 {
     display: block;
     padding-top: 1em;
     padding-bottom: 1em;
   }
 
-  .hidden-content-1 {
+  .hidden-content-2 {
     display: none;
   }
 }
