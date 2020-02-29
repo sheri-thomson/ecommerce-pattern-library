@@ -1,4 +1,8 @@
 .hidden-content-2 {
+  display: block;
+}
+
+.hidden-content-1 {
   display: none;
 }
 
