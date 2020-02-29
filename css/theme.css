@@ -28,9 +28,11 @@ h4, h5 {
 
 ul {
   font-family: var(--font-primary);
-  color: var(--color-neutral);
-  font-weight: bold;
+  color: var(--color-primary);
+  font-weight: normal;
   font-style: normal;
+  list-style-type: square;
+  text-decoration: none;
 }
 
 /* products nav list formatting */
