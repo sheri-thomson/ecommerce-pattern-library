@@ -1,4 +1,14 @@
+<div class="error-message error-message-highlighted push island-1-2" role="alert" aria-live="assertive">
+  <h3 class="push-0">
+    <i class="icon i-32"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+    <span class="icon-label">There are items that require your attention</span>
+  </h3>
+</div>
 <div class="billing-info first-name push">
   <label for="first-name" class="">First Name</label>
-  <input id="first-name" placeholder="John" aria-label="enter first name" name="first-name" required>
+  <input id="first-name" placeholder="John" aria-label="enter first name" name="first-name" required describedby="email-error">
+  <p class="error-message milli island-1-4 push-0" id="firstname-error">
+    <i class="icon i-16"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+    <span class="icon-label">Please enter first name.</span>
+  </p>
 </div>

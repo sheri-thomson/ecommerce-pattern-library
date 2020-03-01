@@ -1,0 +1,16 @@
+title: "Sections"
+description: |
+  Sections are groups of information found through the website. 
+
+patterns:
+  prod-details-section:
+    description: |
+      This section is seen the once a product has been selected. It includes price, quantity input field and list of product benefits.
+
+  facts-section:
+    description: |
+      The facts section outline product main ingredients information and brief background with a link to more resources.
+
+  reviews-section:
+    description: |
+      This section is located at the bottom of the product details page and consists of user ratings and reviews.

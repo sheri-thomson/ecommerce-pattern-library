@@ -1,4 +1,14 @@
+<div class="error-message error-message-highlighted push island-1-2" role="alert" aria-live="assertive">
+  <h3 class="push-0">
+    <i class="icon i-32"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+    <span class="icon-label">There are items that require your attention</span>
+  </h3>
+</div>
 <div class="billing-info postal-code push">
   <label for="postal-code" class="">Postal Code</label>
-  <input id="postal-code" aria-label="enter postal code" name="postal-code" required>
+  <input id="postal-code" aria-label="enter postal code" name="postal-code" required required describedby="postal-error">
+  <p class="error-message milli island-1-4 push-0" id="email-error">
+    <i class="icon i-16"><svg><use xlink:href="images/icons.svg#error" /></svg></i>
+    <span class="icon-label">Please provide a properly formatted postal code</span>
+  </p>
 </div>
