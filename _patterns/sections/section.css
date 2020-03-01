@@ -17,11 +17,26 @@
 .grey-star {
   color: #B7B7B7;
 }
+
+.profile {
+  fill: #965C27;
+}
+
+li a {
+  text-decoration: none;
+  list-style-type: none;
+  color: var(--color-secondary);
+  background-color: var(--color-light-blue);
+}
+
+nav li a:active {
+   color: var(--color-neutral);
+   background-color: var(--color-primary);
+}
+
 @media screen and (min-width: 38em) {
   .hidden-content-1 {
     display: block;
-    padding-top: 1em;
-    padding-bottom: 1em;
   }
 
   .hidden-content-2 {
