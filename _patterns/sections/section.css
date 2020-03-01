@@ -10,6 +10,13 @@
   vertical-align: middle;
 }
 
+.yellow-star {
+  color: #BF7631;
+}
+
+.grey-star {
+  color: #B7B7B7;
+}
 @media screen and (min-width: 38em) {
   .hidden-content-1 {
     display: block;
