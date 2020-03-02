@@ -1,18 +1,18 @@
 <header>
-  <div class="task-bar">
-    <div class="profile-tab">
-      <i class="icon i-16">
-       <svg><use xlink:href="/images/icons.svg#profile" /></svg>
-      </i>
-    </div>
-    <div class="cart-tab">
-      <i class="icon i-16">
-       <svg><use xlink:href="/images/icons.svg#cart" /></svg>
-      </i>
-    </div>
+  <div class="task-bar pad-t-1-2">
+    {% pattern buttons/icon-btn %}
+    {% pattern buttons/icon-btn2 %}
   </div>
-
-
+  <div class="home-nav" >
+    <img src="/images/logo.svg" alt="logo">
+    <navrole="home-nav" id="home-nav" tabindex="0">
+      <ul class="list-group home-nav-items">
+        <li>Home</li>
+        <li>Products</li>
+        <li>Resources</li>
+      </ul>
+    </nav>
+  </div>
 
 
 </header>

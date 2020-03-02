@@ -1,0 +1,5 @@
+<div class="micro">
+  <a class="btn cart profile-btn" href="#"><i class="profile-btn-icon icon i-16 push-r-1-4">
+   <svg><use xlink:href="/images/icons.svg#cart" /></svg>
+  </i><span class="icon-label">Cart</span></a>
+</div>

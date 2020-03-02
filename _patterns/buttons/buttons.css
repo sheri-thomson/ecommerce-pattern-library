@@ -26,3 +26,20 @@
   border-color: var(--color-secondary);
   color: var(--color-neutral);
 }
+
+.profile-btn {
+  font-weight:lighter;
+  border-radius: 4px 4px 0 0;
+}
+
+.profile-btn:hover {
+  border-radius: 4px 4px 0 0;
+}
+
+.profile-btn-icon {
+  padding: .5em;
+}
+
+.cart, .user {
+  width: 100px;
+}

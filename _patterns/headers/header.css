@@ -1,9 +1,19 @@
 .task-bar {
   background-color: var(--color-primary);
+  display: flex;
+  justify-content: flex-end;
 }
 
 .profile-tab, .cart-tab {
   color: var(--color-neutral);
   display: inline;
   background-color: var(--color-accent);
+}
+
+.home-nav {
+  background-color: var(--color-secondary);
+}
+
+.home-nav-items {
+  color: var(--color-neutral);
 }
