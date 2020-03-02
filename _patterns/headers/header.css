@@ -1,0 +1,9 @@
+.task-bar {
+  background-color: var(--color-primary);
+}
+
+.profile-tab, .cart-tab {
+  color: var(--color-neutral);
+  display: inline;
+  background-color: var(--color-accent);
+}
