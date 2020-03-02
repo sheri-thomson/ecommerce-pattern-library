@@ -1,3 +1,5 @@
+/* Banners section */
+
 .hidden-content-2 {
   display: block;
 }
@@ -18,21 +20,53 @@
   color: #B7B7B7;
 }
 
-.profile {
-  fill: #965C27;
+.collections-banner img {
+  height: 100%;
+  object-fit: cover;
 }
+
+.benefits {
+  padding-left: 1em;
+  columns: 2;
+}
+
+/* Side Nav Section */
 
 li a {
   text-decoration: none;
   list-style-type: none;
   color: var(--color-secondary);
-  background-color: var(--color-light-blue);
+  font-weight: normal;
+  max-width: 50em;
 }
 
-nav li a:active {
+nav li a.highlight {
    color: var(--color-neutral);
    background-color: var(--color-primary);
 }
+
+.current-page {
+  text-decoration: underline;
+}
+
+/* Reviews Section */
+
+.profile {
+  background-color: var(--color-accent);
+  border-radius: 50%;
+  color: var(--color-neutral);
+  width: 26px;
+  height: 26px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unsername {
+  display: inline-block;
+}
+
+/* Banners Section Media Q */
 
 @media screen and (min-width: 38em) {
   .hidden-content-1 {

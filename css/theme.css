@@ -70,8 +70,8 @@ dd {
 
 a {
   font-family: var(--font-primary);
-  color: var(--color-neutral);
-  font-weight: bold;
+  color: var(--color-primary);
+  font-weight: normal;
   font-style: normal;
 }
 
