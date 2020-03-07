@@ -13,3 +13,14 @@
 .pipe {
   color: var(--color-neutral);
 }
+
+a {
+  text-decoration: none;
+}
+
+.social-icons,
+.privacy,
+.pipe {
+  color: var(--color-neutral);
+  float: right;
+}
