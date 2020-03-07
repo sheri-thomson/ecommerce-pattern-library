@@ -1,17 +1,15 @@
 <header>
-  <div class="task-bar pad-t-1-2">
-    {% pattern buttons/icon-btn %}
-    {% pattern buttons/icon-btn2 %}
+  <div class="task-bar pad-t-1-2 gutter-1-4">
+    <span class="task-b-nav gutter-1-2">{% pattern buttons/icon-btn %}</span>
+    <span class="task-b-nav gutter-1-4">{% pattern buttons/icon-btn2 %}</span>
   </div>
   <div class="home-nav" >
-    <img src="/images/logo.svg" alt="logo">
-    <navrole="home-nav" id="home-nav" tabindex="0">
-      <ul class="list-group home-nav-items">
-        <li>Home</li>
-        <li>Products</li>
-        <li>Resources</li>
-      </ul>
-    </nav>
+    <img class="img-flex logo island-1-2 push-0" src="/images/logo.svg" alt="logo">
+    <ul class="list-group-inline home-nav-items">
+      <li ahref="/index/">Home</li>
+      <li href="/products/">Products</li>
+      <li href="/resources/">Resources</li>
+    </ul>
   </div>
 
 

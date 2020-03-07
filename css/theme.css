@@ -24,6 +24,11 @@ h4, h5 {
   color: var(--color-primary);
 }
 
+h6 {
+  font-family: var(--font-primary);
+  font-weight:bold;
+  color: var(--color-primary);
+}
 /* nav list formatting */
 
 ul {

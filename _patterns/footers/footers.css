@@ -1,0 +1,15 @@
+.uppercase {
+  text-transform: uppercase;
+}
+
+.privacy-terms {
+  background-color: var(--color-secondary);
+}
+
+.privacy {
+  color: var(--color-neutral);
+}
+
+.pipe {
+  color: var(--color-neutral);
+}
