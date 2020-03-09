@@ -68,7 +68,31 @@ nav li a.highlight {
 
 /* Breadcrumbs Section */
 
+.no-numbers {
+  list-style: none;
+}
 
+/* Mind-body section */
+
+ .mind-body {
+   background-color: var(--color-primary);
+ }
+
+ .body,
+ .mind,
+ .spirit {
+   color: var(--color-neutral);
+   border-color: var(--color-neutral);
+ }
+
+.mind-b-content {
+  color: color var(--color-neutral);
+}
+
+.mind-b-head {
+  color: #BF7631;
+  font-weight: bold;
+}
 
 /* Banners Section Media Q */
 

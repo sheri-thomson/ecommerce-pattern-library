@@ -1,6 +1,6 @@
 title: "Sections"
 description: |
-  Sections are groups of information found through the website. 
+  Sections are groups of information found through the website.
 
 patterns:
   prod-details-section:
@@ -14,3 +14,19 @@ patterns:
   reviews-section:
     description: |
       This section is located at the bottom of the product details page and consists of user ratings and reviews.
+
+    banners-section:
+      description: |
+        This section is a bird's eye view of what the site consosts of and is found on the home page.
+
+    breadcrumbs-section:
+      description: |
+        The breadcrumbs can been seen as users start to navigate throught the products. It will allow them to situate themsemselves and quickly jump back and forth as needed.
+
+      side.nav-section:
+        description: |
+          This static navigation section is within the products page and gives users the freedom to browse products by category.
+
+      mind.body-section:
+        description: |
+          This static navigation section is within the products page and gives users the freedom to browse products by category.

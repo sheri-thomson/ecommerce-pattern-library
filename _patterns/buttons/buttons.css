@@ -9,6 +9,12 @@
   border-color: var(--color-secondary);
 }
 
+.btn:focus {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-neutral);
+}
+
 .btn-ghost {
   background-color: transparent;
   border-color: var(--color-secondary);
