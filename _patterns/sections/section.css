@@ -83,6 +83,8 @@ nav li a.highlight {
  .spirit {
    color: var(--color-neutral);
    border-color: var(--color-neutral);
+   width: 100%;
+   max-width: 15em;
  }
 
 .mind-b-content {

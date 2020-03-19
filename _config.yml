@@ -2,6 +2,10 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  layouts:
+    default: |
+      The default layout should be used for almost every page. It includes the website's primary header and footer.
+
   title: "Essential Elements"
   description: |
     All natural, pure and organic essential oil for overall wellness.

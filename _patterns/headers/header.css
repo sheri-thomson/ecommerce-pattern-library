@@ -16,12 +16,14 @@
 
 .home-nav-items {
   color: var(--color-neutral);
+  position: absolute;
+  right: 0;
 }
 
 .logo {
   width: 10em;
 }
 
-.task-b-nav {
-
+li a {
+  color: var(--color-neutral);
 }

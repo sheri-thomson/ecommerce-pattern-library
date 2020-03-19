@@ -10,6 +10,7 @@
 
 html {
   font-family: var(--font-primary);
+  background-color: var(--color-neutral);
 }
 
 h1, h2, h3 {
@@ -100,4 +101,10 @@ cite {
 
 mark {
   background-color: var(--color-light-blue);
+}
+
+.img-fill {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
