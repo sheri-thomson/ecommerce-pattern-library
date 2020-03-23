@@ -5,3 +5,8 @@
 .banner-content-home {
   color: var(--color-primary);
 }
+
+.home-banner-img,
+.product-banner-img {
+  border-bottom: 3px solid var(--color-secondary);
+}

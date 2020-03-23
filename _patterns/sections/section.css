@@ -72,10 +72,16 @@ nav li a.highlight {
   list-style: none;
 }
 
+.breadcrumbs {
+  color: var(--color-primary);
+}
+
 /* Mind-body section */
 
  .mind-body {
    background-color: var(--color-primary);
+   border-top: 3px solid var(--color-secondary);
+   border-bottom: 3px solid var(--color-secondary);
  }
 
  .body,
@@ -87,14 +93,15 @@ nav li a.highlight {
    max-width: 15em;
  }
 
-.mind-body {
-  color: color var(--color-neutral);
+.mbp {
+  color: var(--color-neutral);
 }
 
 .mind-b-head {
   color: #BF7631;
   font-weight: bold;
 }
+
 
 /* Banners Section Media Q */
 
