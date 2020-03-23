@@ -1,7 +1,3 @@
-title: "Banners"
-description: |
-  Banners should be used to bring focus to important information that is emphasized and includes a call-to-action.
-
 patterns:
   banners:
     fields:

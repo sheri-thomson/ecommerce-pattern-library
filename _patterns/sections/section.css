@@ -32,7 +32,7 @@
 
 /* Side Nav Section */
 
-li a {
+.side-nav {
   text-decoration: none;
   list-style-type: none;
   color: var(--color-secondary);
@@ -73,7 +73,7 @@ nav li a.highlight {
 }
 
 .breadcrumbs {
-  color: var(--color-primary);
+  color: var(--color-secondary);
 }
 
 /* Mind-body section */
