@@ -1,3 +1,21 @@
 title: "Banners"
 description: |
   Banners should be used to bring focus to important information that is emphasized and includes a call-to-action.
+
+patterns:
+  banners:
+    fields:
+      - name: heading
+        type: string
+        example: "Products you can count on!"
+      - name: text
+        type: string
+        example: "All our products are certified organic, plant based and not tested on animals."
+  home-banner:
+    fields:
+      - name: heading
+        type: string
+        example: "Enhance your wellbeing!"
+      - name: text
+        type: string
+        example: "Improve your life with Essential Elements pure oils!"
